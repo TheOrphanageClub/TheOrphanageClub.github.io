@@ -1,0 +1,39 @@
+html,body {
+	height: 100%;
+    width: 100%;
+}
+
+.header {
+    background: linear-gradient(180deg, #0094FF 0%, #ff2b7a 100%);
+}
+
+.logo {
+    border: 3px solid #0094FF;
+    border-radius: 50%;
+    width: 200px;
+    height: 200px;
+    -webkit-user-drag: none;
+    -khtml-user-drag: none;
+    -moz-user-drag: none;
+    -o-user-drag: none;
+}
+
+.icons {
+	color: #fff;
+	transition: all 0.2s;
+	font-size: 45px;
+}
+
+.icons:hover {
+	color: #ccc;
+}
+
+.spacing {
+	margin-top: 100px;
+	margin-bottom: 100px;
+}
+
+footer {
+    background: #ff2b7a !important;;
+    padding: 3em !important;
+}
